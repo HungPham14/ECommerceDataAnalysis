@@ -1,0 +1,18 @@
+MonetaryFeature
+------------------------------------
+Promotions and Discounts
+Include: Promotions and discounts can provide valuable insights into customer behavior. They can help you understand how customers respond to different marketing strategies and how these strategies affect their purchasing patterns.
+
+Adjust: You may want to adjust the monetary value to reflect the actual revenue generated after discounts. This can give you a more accurate picture of customer value.
+
+Canceled Transactions
+Exclude: Canceled transactions should generally be excluded from RFM analysis as they do not represent actual purchases. Including them could skew your results and lead to inaccurate conclusions.
+
+Postage
+Exclude: Postage costs are typically not part of the customer's purchasing behavior and do not reflect the value of the products purchased. Including postage could skew the monetary value.
+
+Bank Charges
+Exclude: Bank charges are not related to customer purchases and should be excluded from RFM analysis. They do not provide insights into customer behavior or value.
+
+CRUK Commission
+Exclude: Commission fees, such as those paid to third parties, should also be excluded. These fees do not represent customer spending and can distort the analysis.
