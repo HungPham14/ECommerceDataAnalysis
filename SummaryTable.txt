@@ -1,0 +1,13 @@
+Summary Table of Segments Based on 4-Rank RFM
+Segment			Recency		Frequency	Monetary	RFM Description
+New Customers		4		1 or 2		1 or 2	Recent customers, need nurturing
+Champions		4		4		4	Best customers; frequent, recent, and high spenders
+Runner-ups		3 or 4		3 or 4		4	Recent, high spenders but less frequent
+Loyal Customers		3 or 4		3 or 4		1 or 2	Frequent buyers with good spending
+Promising		3		2 or 3		3	Moderate engagement; future potential
+Can't Lose Them		3 or 4		2 or 3		3 or 4	Recent buyers but need nurturing
+Potential Loyalists	4		2 or 3		2 or 3	Recent buyers with potential
+Needs Attention		2 or 3		1 or 2		1 to 3	Inactive customers, need re-engagement
+About to Sleep		1 or 2		1 or 2		3 or 4	High spenders, but dormant for a while
+Hibernating		1		1 to 3		1 to 3	Long-term inactive, low engagement, spenders
+Lost Customer		1		1		1 or 2	Long-term inactive, low spenders
