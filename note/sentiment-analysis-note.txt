@@ -1,0 +1,11 @@
+SENTIMENT ANALYSIS
+
+Definition: the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. 
+Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews.
+
+How-to-do: Download free dataset to train predictive model, using mathematics algorithms such as XGBoost, Logistic Regression, etc
+
+Brainstorming: Since we cannot analyze tone of audio which could make out of many different emotion such as sadness, happiness, satisfying, etc. 
+We have to use a dictionary of words to predict the classification of the sentences (positive, negative, neutral).
+
+Quest: Add sentiment analysis to chatbot, giving chatbot a emotion detect feature. 
