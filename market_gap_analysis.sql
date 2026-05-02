@@ -1,3 +1,6 @@
+/*
+Document: https://docs.google.com/document/d/1ggGtqyOV4OBD9uK7zT3QZTOo3YQfse1Q7nhs_viGhQI
+*/
 DECLARE cut_off_time DATE;
 DECLARE threshold FLOAT64;
 
