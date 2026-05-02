@@ -14,6 +14,8 @@ Lift = 1: Mua A và mua B hoàn toàn độc lập. (Như việc mua Bỉm và S
 Lift < 1: Khách mua A thì sẽ giảm khả năng mua B. (Ví dụ: Khách mua Coca thì khả năng cao sẽ không mua Pepsi nữa). Đây là các sản phẩm thay thế (Substitutes), không được Cross-sell cùng nhau.
 Lift > 1: ĐÂY LÀ CHÂN ÁI! Mua A làm tăng vọt khả năng mua B. (Ví dụ: Khách mua Bỉm thì mua Bia. Có thể do các ông bố đi mua bỉm cho con thường tiện tay xách luôn lốc bia). 
 Lift càng cao, mối liên hệ càng chặt chẽ.
+
+Document: https://docs.google.com/document/d/1oeeu_65VZ_6Bd9LJEBzSGm4LWNEriviULXzxfMPjeu8
 */
 
 WITH 
